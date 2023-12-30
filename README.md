@@ -7,9 +7,14 @@ This is a practice project for CSS. Performs some clone coding.
 ## What I learned
 
 - CSS
-  - CSS Flexbox
-  - CSS Grid
+  - Flexbox
+  - Grid
 - SCSS
-  - SCSS Nesting
+  - Nesting
+  - Extend
+  - Mixin
+- Clone Coding
+  - Education App
 
 `🚧 {{WIP}} 🚧`
+
