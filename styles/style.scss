@@ -1,0 +1,13 @@
+$bgColor: blue;
+
+body {
+  background-color: $bgColor;
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 2fr 1fr;
+  grid-template:
+    "header header header header" 1fr
+    "content content content menu" 2fr
+    "footer footer footer footer" 1fr / 1fr 1fr 1fr 1fr;
+}
